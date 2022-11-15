@@ -1,6 +1,6 @@
 # Spotify - Paramore-analysis
 
-<img src="C:\Users\rodri\Desktop\CNNbPMsWgAAWHT-.png"/>
+<img src="C:\Users\rodri\Desktop\CNNbPMsWgAAWHT.jpg"/>
 
 Sobre o trabalho
 
